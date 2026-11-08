@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-craft-core"
-description = "Shared project format, asset metadata, import/export, plugin API"
+description = "Path-safe creative project manifests, asset metadata, and validated format plugin registry"
 version = "0.1.0"
 tier = 4
 
